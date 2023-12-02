@@ -1,6 +1,6 @@
 ## GitHub Stats
 
-![YunShu's GitHub stats](https://readme-stats.yunshu.site/api?username=Selflocking&show_icons=true&theme=transparent)
+![YunShu's GitHub stats](https://readme-stats.yunshu.site/api?username=Selflocking&show_icons=true&bg_color=2D3748&text_color=ffffff)
 
 ## Code Stats
 
